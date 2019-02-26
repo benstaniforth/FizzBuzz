@@ -49,7 +49,7 @@ public class NewMain {
                 }
             else if (sb.indexOf("B") == -1){
                     sb.append("Fezz");}
-            
+
 
             if (sb.length() == 0) {
                 System.out.println(number);
